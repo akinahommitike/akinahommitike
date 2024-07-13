@@ -1,8 +1,8 @@
 Introduction
-Hello! my name is Akinahom, a data science enthusiast with keen interest in quantitative analysis and its applications in finance and space exploration. My journey in data science has led me to explore various facets of machine learning, data preprocessing, and modeling, particularly focusing on projects related to space and quantitative trading.
+Hello my name is Akinahom, a data science enthusiast with keen interest in quantitative analysis and its applications in finance and space exploration. My journey in data science has led me to explore various facets of machine learning, data preprocessing, and modeling, particularly focusing on projects related to space and quantitative trading.
 
-**#Interests and Projects**
-**Automated Galaxy Morphology Classification**
+###Interests and Projects**
+###Automated Galaxy Morphology Classification
 I have dedicated my efforts to developing an automated solution for galaxy morphology classification, leveraging advanced machine learning techniques and cloud computing platforms. Key aspects of this project include:
 
 Data Collection and Preprocessing: Collected and preprocessed galaxy image data from the Sloan Digital Sky Survey (SDSS) and the Galaxy Zoo project, addressing image quality, missing values, and normalization using Python libraries such as NumPy, Pandas, and Scikit-learn.
