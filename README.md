@@ -1,27 +1,29 @@
-# README
+Introduction
+Hello! my name is Akinahom, a data science enthusiast with keen interest in quantitative analysis and its applications in finance and space exploration. My journey in data science has led me to explore various facets of machine learning, data preprocessing, and modeling, particularly focusing on projects related to space and quantitative trading.
 
-## Introduction
+**#Interests and Projects**
+**Automated Galaxy Morphology Classification**
+I have dedicated my efforts to developing an automated solution for galaxy morphology classification, leveraging advanced machine learning techniques and cloud computing platforms. Key aspects of this project include:
 
-Hello! I'm [Your Name], a data science enthusiast with a keen interest in quantitative analysis and its applications in finance and space exploration. My journey in data science has led me to explore various facets of machine learning, data preprocessing, and modeling, particularly focusing on projects related to NASA's Near-Earth Object Program and quantitative trading.
+Data Collection and Preprocessing: Collected and preprocessed galaxy image data from the Sloan Digital Sky Survey (SDSS) and the Galaxy Zoo project, addressing image quality, missing values, and normalization using Python libraries such as NumPy, Pandas, and Scikit-learn.
 
-## Interests and Projects
+Machine Learning Models: Developed algorithms utilizing Convolutional Neural Networks (CNNs) to identify and isolate key galaxy features like shape, color, and texture. Enhanced model accuracy through ensemble methods including Random Forests, Support Vector Machines (SVMs), and Gradient Boosting Machines (GBMs).
 
-### NASA Near-Earth Object Program
+Cloud Computing and Scalability: Utilized AWS, Azure, and Google Cloud for model training and deployment, ensuring scalability and efficiency.
 
-I have a strong passion for space exploration and have been deeply involved in projects related to NASA's Near-Earth Object Program. My work includes:
+Web Development and Visualization: Implemented Flask/Django frameworks to create API endpoints for user interaction and employed Gradio for interactive visualization of model results and evaluations.
 
-- **Linear Models with Regularizations LDA and GDA**: Utilizing these models to analyze datasets related to near-Earth objects.
-- **Data Gathering and Preprocessing**: Efficiently cleaning and preprocessing data, handling missing values, and performing feature engineering to ensure robust models.
-- **SVM Models**: Implementing Support Vector Machine models to predict trajectories and assess impact risks of Near-Earth Objects.
-- **ChainLit Chatbot**: Integrating chatbot functionalities to enhance prediction accuracy and provide insightful assessments of NEOs.
+Security and Privacy: Implemented data privacy best practices, including authentication, authorization protocols, and secure communication channels.
 
+Future Directions
+This project aims to provide a reliable and efficient solution for galaxy morphology classification, applicable across industries such as astrophysics research, space exploration, and satellite imaging. Future enhancements may include further integration with real-time data streams and refinement of model performance through continuous evaluation and optimization.
 ### Quantitative Analysis and Finance
 
 In addition to my space-related projects, I am keen on quantitative analysis in finance. My goal is to leverage my data science skills to secure a quant role. Some of my relevant activities include:
 
 - **API Integration**: Working on projects involving multiple APIs to gather and analyze financial data.
 - **Quantitative Research**: Conducting research in data science, focusing on quantitative analysis to gain insights and develop strategies for financial markets.
-
+  
 ## Research Interests
 
 I am particularly interested in conducting research on the following topics to further my career in quantitative trading and finance:
@@ -30,20 +32,13 @@ I am particularly interested in conducting research on the following topics to f
 2. **Machine Learning for Credit Risk Assessment**
 3. **Algorithmic Trading Strategies Using Reinforcement Learning**
 
-## Skills and Tools
+Skills and Tools
+Programming Languages: Python, SQL
+Machine Learning: Scikit-learn, TensorFlow, Keras
+Data Processing: Pandas, NumPy, SciPy
+Cloud Platforms: AWS, Azure, Google Cloud
+Web Development: Flask, Django
+Visualization: Matplotlib, Seaborn, Plotly
 
-- **Programming Languages**: Python, R, SQL
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Data Processing**: Pandas, NumPy, SciPy
-- **Visualization**: Matplotlib, Seaborn, Plotly
-- **APIs**: RESTful APIs, Integration and Data Extraction
-- **Version Control**: Git, GitHub
-
-## Contact
-
-Feel free to reach out to me for collaboration, research opportunities, or any questions you may have. You can contact me at [Your Email].
-
----
-
-Thank you for taking the time to learn a bit about me and my work. I am always excited to connect with like-minded individuals and explore new opportunities in the fascinating world of data science and quantitative analysis.
+For collaboration opportunities or inquiries, please feel free to reach out at akinahom.wabella@mnsu.edu.
 
