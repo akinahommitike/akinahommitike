@@ -35,9 +35,11 @@ In this project, I developed a personalized investment predictor designed specif
 
 I am particularly interested in conducting research on the following topics to further my career in quant and data science:
 
-1. **Time Series Analysis for Stock Price Prediction**
-2. **Machine Learning for Credit Risk Assessment**
-3. **Algorithmic Trading Strategies Using Reinforcement Learning**
+1.**AI-Powered Personalization Engines**
+2. **Algorithmic Trading Strategies Using Reinforcement Learning**
+3. **Generative Adversarial Networks (GANs) for Synthetic Data Generation**
+4. **Privacy-Preserving Machine Learning Techniques**
+5.**Robustness and Security of Machine Learning Models**
 
 ## Skills and Tools
 
