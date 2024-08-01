@@ -1,7 +1,7 @@
 
 # Introduction
 
-Hello, my name is Akinahom Wabella, and I am a data science enthusiast with a keen interest in quantitative analysis and its applications in finance and space exploration. My journey in data science has led me to explore various facets of machine learning, data preprocessing, and modeling, particularly focusing on projects related to space and quantitative trading.
+Hello, my name is Akinahom Wabella, and I am a data science enthusiast with a keen interest in quantitative analysis and tech applications in finance and space exploration. My journey in data science has led me to explore various facets of machine learning, data preprocessing, and modeling, particularly focusing on projects related to space and quantitative trading.
 
 ## Interests and Projects
 
